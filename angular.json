@@ -1,0 +1,12 @@
+[
+  {
+    "codigo": 1,
+    "descripcion": "papas",
+    "precio": 12.33
+  },
+  {
+    "codigo": 2,
+    "descripcion": "manzanas",
+    "precio": 54
+  }
+]
